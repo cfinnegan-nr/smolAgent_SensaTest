@@ -1,0 +1,9 @@
+YouTube links...
+
+https://youtu.be/3Ki2xqbRrbc?si=m2rq8s9KXEcT4wFp
+
+https://youtu.be/T6-sL0TfAsM?si=v4ePfoy2VUoyTSBu
+
+https://youtu.be/vGi_4jpn7Is?si=y3Lj2y7Du8HTilAH
+
+pip install smolagents
